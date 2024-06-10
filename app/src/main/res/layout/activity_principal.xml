@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#cff8cf"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:text="Olá, XXXXXX."
+        android:textSize="24sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Visão Geral"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="122dp" />
+
+
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="32dp"
+        android:background="@android:color/darker_gray"
+        android:padding="8dp"
+        android:text="Veículo 01 - Status: Disponível"
+        android:textColor="@android:color/white"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="294dp" />
+
+    <TextView
+        android:layout_width="321dp"
+        android:layout_height="32dp"
+        android:background="@android:color/darker_gray"
+        android:padding="8dp"
+        android:text="Veículo 05 - Status: Em Manutenção"
+        android:textColor="@android:color/white"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="255dp" />
+
+    <TextView
+        android:layout_width="323dp"
+        android:layout_height="33dp"
+        android:background="@android:color/darker_gray"
+        android:padding="8dp"
+        android:text="Veículo 07 - Status: Em Uso"
+        android:textColor="@android:color/white"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="218dp" />
+
+    <TextView
+        android:layout_width="323dp"
+        android:layout_height="35dp"
+        android:background="@android:color/darker_gray"
+        android:padding="8dp"
+        android:text="Veículo 09 - Status: Em Uso"
+        android:textColor="@android:color/white"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="178dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Localização de Missões"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="385dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

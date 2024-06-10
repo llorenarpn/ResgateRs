@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413116511360",
+    "project_id": "resgaters1",
+    "storage_bucket": "resgaters1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413116511360:android:05eefdfbe57022adc8e265",
+        "android_client_info": {
+          "package_name": "br.com.lorena.resgaters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8mAL8TlMvx-pS2Spu4dv-sdanSzAghpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
